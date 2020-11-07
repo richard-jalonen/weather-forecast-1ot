@@ -2,7 +2,6 @@ package ee.richja.weatherforecast.repository;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
-import ee.richja.weatherforecast.model.Forecast;
 import ee.richja.weatherforecast.model.Forecasts;
 import org.springframework.stereotype.Repository;
 import org.springframework.web.client.RestTemplate;

@@ -1,5 +1,5 @@
 <template>
-  <div class="container has-background-white-bis column is-half">
+  <div class="container has-background-white-bis column is-half mb-3">
     <daily-forecast />
     <footer-custom />
   </div>

@@ -12,6 +12,8 @@ From the 'backend' folder run (using cmd):
 
 > gradlew bootrun
 
+Backend base url: http://localhost:8080/
+
 ## Frontend
 
 From the 'frontend' folder run (using cmd):
@@ -20,7 +22,8 @@ From the 'frontend' folder run (using cmd):
 
 > npm run dev
 
+Frontend url: http://localhost:3000/
+
 # BACKEND ENDPOINTS
 
-- > GET /forecast
-  > returns: List of forecast objects containing 4 day and night forecasts.
+- > GET /forecast - returns: List of forecast objects containing 4 day and night forecasts.
